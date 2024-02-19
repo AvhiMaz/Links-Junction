@@ -6,7 +6,7 @@ import Buttonsss from "./componets/Buttons";
 import Footer from "./componets/footer";
 import Icons from "./componets/icons";
 import Bio from "./componets/bio";
-import ProfileViewCount from "./componets/profile-view-count";
+import FooterText from "./componets/footer-text";
 
 function App() {
   return (
@@ -37,7 +37,7 @@ function App() {
           <Icons />
         </div>
         <div>
-          <ProfileViewCount />
+          <FooterText />
         </div>
         <div>
           <Footer />
