@@ -27,6 +27,10 @@ function App() {
         <div>
           <Name />
         </div>
+        <div className="mt-10">
+          <FooterText />
+        </div>
+
         <div>
           <Bio />
         </div>
@@ -35,9 +39,6 @@ function App() {
         </div>
         <div>
           <Icons />
-        </div>
-        <div>
-          <FooterText />
         </div>
         <div>
           <Footer />
