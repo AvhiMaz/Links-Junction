@@ -6,6 +6,7 @@ import Buttonsss from "./componets/Buttons";
 import Footer from "./componets/footer";
 import Icons from "./componets/icons";
 import Bio from "./componets/bio";
+import ProfileViewCount from "./componets/profile-view-count";
 
 function App() {
   return (
@@ -34,6 +35,9 @@ function App() {
         </div>
         <div>
           <Icons />
+        </div>
+        <div>
+          <ProfileViewCount />
         </div>
         <div>
           <Footer />
