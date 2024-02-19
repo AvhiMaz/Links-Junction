@@ -3,12 +3,12 @@ import React from "react";
 function Icons() {
   return (
     <div className="flex items-center justify-center">
-      <div class=" p-6  flex items-center justify-center rounded-full">
-        <div class="container max-w-screen-lg mx-auto">
+      <div className=" p-6  flex items-center justify-center rounded-full">
+        <div className="container max-w-screen-lg mx-auto">
           <div>
-            <div class="flex flex-wrap justify-center gap-2">
+            <div className="flex flex-wrap justify-center gap-2">
               <a href="http://facebook.com/raftaar.raftaar.180625">
-                <button class="bg-blue-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
+                <button className="bg-blue-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
                   <svg
                     class="fill-current"
                     role="img"
@@ -77,9 +77,9 @@ function Icons() {
                 </button>
               </a>
               <a href="https://www.reddit.com/u/avhimazumder/s/5EY9dMNuAx">
-                <button class="bg-red-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
+                <button className="bg-red-500 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded">
                   <svg
-                    class="fill-current"
+                    className="fill-current"
                     width="30"
                     height="30"
                     role="img"

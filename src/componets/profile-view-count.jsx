@@ -11,7 +11,9 @@ const ProfileViewCount = () => {
 
   return (
     <div className="flex items-center justify-center">
-      <h1 id="count">Do follow me :D</h1>
+      <h1 id="count" className="text-2xl">
+        Do Follow Me :)
+      </h1>
     </div>
   );
 };
